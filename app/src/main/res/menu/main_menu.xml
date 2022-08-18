@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_planet"
+            android:icon="@drawable/ic_home"
+            android:title="나의 우주" />
+
+        <item
+            android:id="@+id/nav_list"
+            android:icon="@drawable/ic_home"
+            android:title="리스트" />
+
+        <item
+            android:id="@+id/nav_follower"
+            android:icon="@drawable/ic_home"
+            android:title="친구" />
+
+        <item
+            android:id="@+id/nav_quest"
+            android:icon="@drawable/ic_home"
+            android:title="업적" />
+
+        <item
+            android:id="@+id/nav_shop"
+            android:icon="@drawable/ic_home"
+            android:title="상점" />
+
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/ic_home"
+            android:title="설정" />
+    </group>
+
+
+</menu>
