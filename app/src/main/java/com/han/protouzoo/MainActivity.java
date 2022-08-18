@@ -23,7 +23,6 @@ public class MainActivity extends AppCompatActivity {
     ActionBarDrawerToggle actionBarDrawerToggle;
     ImageView btnMenu;
 
-
     @Override
     public boolean onOptionsItemSelected(@NonNull MenuItem item) {
 
